@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "South Korea"
-title                    : "code7ssage"
-title_separator          : "-"
-subtitle                 : "데이콘, 해커톤, 머신러닝, 딥러닝"
-name                     : "이승현 (Lee SeungHyun) "
-description              : "대회 코드 기록용 블로그"
+locale                   : "ko-KR"
+title                    : "code7ssage의 머신러닝 공부장"
+title_separator          : "|"
+subtitle                 : "Raw Data to Real Value"
+name                     : "code7ssage"
+description              : "code7ssage의 블로그 입니당:)"
 url                      : "https://code7ssage.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lee SeungHyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "code7ssage의 블로그 입니당:)"
+  location         : "South korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:hjk5975@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/code7ssage"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
