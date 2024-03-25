@@ -8,7 +8,7 @@ title: Random Forest
 	1. Bootstrap(복원추출) -> **Bagging**
 	2. X% sampling -> **Randomly chosen predictor variables**
 - 목표: Bias는 유지하면서 Variance를 낮춤
-	• Tree는 작은 Bias와 큰 Variance를 갖기 때문에, 매우 깊이 성장한(Depth가 깊은) 트리는 훈련 데이터에 대해 [[2024-03-25-Overfitting]] 하게 됨 
+	• Tree는 작은 Bias와 큰 Variance를 갖기 때문에, 매우 깊이 성장한(Depth가 깊은) 트리는 훈련 데이터에 대해 [[2024-03-04-Overfitting]] 하게 됨 
 	• 한 개의 Tree의 경우 훈련 데이터에 있는 **Noise**에 대해 매우 민감함 
 	• Tree들이 서로 상관화(correlated)되어 있지 않다면 여러 Tree들의 평균은 Noise에 대해 강인해짐 
 	• 상관화를 줄이는 방법은 **Randomly Chosen (행 & 렬 모두)**

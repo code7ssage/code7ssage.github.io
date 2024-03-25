@@ -10,7 +10,7 @@ title: Clustering
     • 같은 클러스터 내의 데이터는 서로 높은 유사도를 나타내야 함 
     • 다른 클러스터 간의 데이터는 서로 낮은 유사도를 나타내야 함
     ![image](https://github.com/code7ssage/code7ssage.github.io/blob/master/assets/attached%20file/Pasted%20image%2020240103142852.png?raw=true)
-- DBSCAN VS. [[2024-03-25-K-Means]] clustering
+- DBSCAN VS. [[2024-03-04-K-Means]] clustering
      ![image](https://github.com/code7ssage/code7ssage.github.io/blob/master/assets/attached%20file/Pasted%20image%2020240103142925.png?raw=true)
 - Hierarchical clustering
      ![image](https://github.com/code7ssage/code7ssage.github.io/blob/master/assets/attached%20file/Pasted%20image%2020240103142959.png?raw=true)
