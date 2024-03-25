@@ -40,4 +40,4 @@ title: Gradient Boosting Machine
 - Step N
 	- new decisicion tree 만들어서 다시 residual update 반복 해주면 됨!
 		![image](https://github.com/code7ssage/code7ssage.github.io/blob/master/assets/attached%20file/Pasted%20image%2020240108132657.png?raw=true)
-- 실습: [[9. Gradient Boosting Machine Code]]
+- 실습: [[2024-03-25-9. Gradient Boosting Machine Code]]

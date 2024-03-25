@@ -24,4 +24,4 @@ title: Random Forest
 	![image](https://github.com/code7ssage/code7ssage.github.io/blob/master/assets/attached%20file/Pasted%20image%2020240106164456.png?raw=true)
 	- di는 편차, si는 분산
 		-> error의 차이는 크고, 그 큰 차이가 비슷하게 나타나야 함
-- 실습: [[7. Random Forest Code]]
+- 실습: [[2024-03-25-7. Random Forest Code]]
