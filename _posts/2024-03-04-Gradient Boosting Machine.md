@@ -6,7 +6,7 @@ title: Gradient Boosting Machine
 - **Classification 뿐만 아니라 Regression 사용 가능**
 	![image](https://github.com/code7ssage/code7ssage.github.io/blob/master/assets/attached%20file/Pasted%20image%2020240108130715.png?raw=true)
 	- residual을 최소화 하는게 목적!
-- [[2024-03-04-Overfitting]]문제..
+- [Overfitting](https://code7ssage.github.io/Overfitting/)문제..
 	1. **Subsampling** 가능 
 	- 복원 추출이 아닌(without replacement) Just sampling 하여 iteration 마다 data를 Sampling 하게 함 
 	- 하지만 bagging (Bootstrap + Aggregating)도 또한 가능함
@@ -40,4 +40,4 @@ title: Gradient Boosting Machine
 - Step N
 	- new decisicion tree 만들어서 다시 residual update 반복 해주면 됨!
 		![image](https://github.com/code7ssage/code7ssage.github.io/blob/master/assets/attached%20file/Pasted%20image%2020240108132657.png?raw=true)
-- 실습: [[2024-03-25-9. Gradient Boosting Machine Code]]
+- 실습: [9. Gradient Boosting Machine Code](https://code7ssage.github.io/9.-Gradient-Boosting-Machine-Code/)

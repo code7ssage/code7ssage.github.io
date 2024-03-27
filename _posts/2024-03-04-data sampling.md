@@ -3,6 +3,6 @@ layout: post
 title: data sampling
 ---
 
-- [[2024-03-04-undersampling]]
-- [[2024-03-04-oversampling]]
-- [[2024-03-04-combination sampling]]
+- [undersampling](https://code7ssage.github.io/undersampling/)
+- [oversampling](https://code7ssage.github.io/oversampling/)
+- [combination sampling](https://code7ssage.github.io/combination-sampling/)
