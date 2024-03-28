@@ -14,7 +14,7 @@ title: Random Forest
 	• 상관화를 줄이는 방법은 **Randomly Chosen (행 & 렬 모두)**
 	• 반면, Forest를 구성하는 모든 Tree들을 동일한 데이터 셋으로만 훈련시키게 되면, Tree들의 상관성은 커짐 -> **Bagging**은 서로 다른 데이터 셋들에 대해 훈련
 - But, Bootstrap을 진행하면 확률 상 뽑히지 못한 데이터는 **36.8%** 가 됨
-	-> 이 36.8%를 train set으로 활용: **OOB**(Out Of Bag) ㅇata
+	-> 이 36.8%를 train set으로 활용: **OOB**(Out Of Bag) data
 - **Feature Importance Score**
 	Step 1 : original OOB data를 사용하여 error 측정
 	Step 2 : OOB data의 변수 Xi를 permutation 시킨다 
