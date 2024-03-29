@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Built-in functions
 ---
 **abs**

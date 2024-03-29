@@ -1,5 +1,4 @@
 ---
-layout: post
 title: if, for while, try except
 ---
 
