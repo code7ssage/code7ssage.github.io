@@ -1,5 +1,7 @@
 ---
 title: MinMax Scaler
+categories:
+  - key_terms
 ---
 
 ### MinMax Scaler (최소-최대 정규화)

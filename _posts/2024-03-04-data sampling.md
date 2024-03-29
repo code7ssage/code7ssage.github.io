@@ -1,5 +1,7 @@
 ---
 title: data sampling
+categories:
+  - key_terms
 ---
 
 - [undersampling](https://code7ssage.github.io/undersampling/)

@@ -1,5 +1,7 @@
 ---
 title: oversampling
+categories:
+  - key_terms
 ---
 
 - 데이터내클래스비율이 Imbalance 할 경우, 타겟의 모수가 많은쪽을줄이는기법(Random, SMOTE 등) 

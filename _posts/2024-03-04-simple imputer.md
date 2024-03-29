@@ -1,5 +1,7 @@
 ---
 title: simple imputer
+categories:
+  - key_terms
 ---
 
 ```python

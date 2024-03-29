@@ -1,5 +1,7 @@
 ---
 title: Overfitting
+categories:
+  - key_terms
 ---
 
 - Step이 진행 될수록 성능 향상 -> 모델 복잡도 증가 

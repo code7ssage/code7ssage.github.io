@@ -1,5 +1,7 @@
 ---
 title: recommendation
+categories:
+  - key_terms
 ---
 
 - netflix prize-> 작품 추천

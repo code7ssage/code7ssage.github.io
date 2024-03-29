@@ -1,5 +1,7 @@
 ---
 title: combination sampling
+categories:
+  - key_terms
 ---
 
 - 실전에서는 역시 한가지 방법만 시도하지 않음 

@@ -1,5 +1,7 @@
 ---
 title: MaxABS Scaler
+categories:
+  - key_terms
 ---
 
 ### MaxABS Scaler (최대 절대값 정규화)

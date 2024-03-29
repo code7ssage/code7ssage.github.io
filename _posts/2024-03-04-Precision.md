@@ -1,5 +1,7 @@
 ---
 title: Precision
+categories:
+  - key_terms
 ---
 
 ### 정밀도 (Precision)

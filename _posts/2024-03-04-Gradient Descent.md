@@ -1,5 +1,7 @@
 ---
 title: Gradient Descent
+categories:
+  - key_terms
 ---
 
 - 경사 하강법 

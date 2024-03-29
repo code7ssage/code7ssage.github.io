@@ -1,5 +1,7 @@
 ---
 title: Deep learning
+categories:
+  - key_terms
 ---
 
 딥 러닝(Deep Learning)은 인공 지능(AI)의 한 분야로, 인간의 뇌가 정보를 처리하는 방식을 모방한 인공 신경망(Artificial Neural Networks)을 기반으로 합니다. 딥 러닝은 특히 대규모 데이터 세트에서 복잡한 패턴을 학습하는 데 매우 효과적입니다.

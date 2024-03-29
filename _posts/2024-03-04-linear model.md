@@ -1,5 +1,7 @@
 ---
 title: linear model
+categories:
+  - key_terms
 ---
 
 - 전체 [p-value](https://code7ssage.github.io/p-value/)가 일정 수준보다 작아질 때까지 p-value가 큰 변수를 제거하는 방법                     

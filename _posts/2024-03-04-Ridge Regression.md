@@ -1,5 +1,7 @@
 ---
 title: Ridge Regression
+categories:
+  - key_terms
 ---
 
 - β^𝟐에 Penalty Term을 부여하는 방식 

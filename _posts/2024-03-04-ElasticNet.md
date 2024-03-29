@@ -1,5 +1,7 @@
 ---
 title: ElasticNet
+categories:
+  - key_terms
 ---
 
 - ElasticNet은 Ridge의 𝑳𝟏−𝑛𝑜𝑟𝑚 과 LASSO의 𝑳𝟐−𝑛𝑜𝑟𝑚 을 섞어 놓았음

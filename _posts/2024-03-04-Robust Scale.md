@@ -1,5 +1,7 @@
 ---
 title: Robust Scale
+categories:
+  - key_terms
 ---
 
 ### Robust Scaler (로버스트 정규화)

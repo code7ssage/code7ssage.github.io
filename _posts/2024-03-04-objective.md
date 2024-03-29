@@ -1,5 +1,7 @@
 ---
 title: objective
+categories:
+  - key_terms
 ---
 
  -1. **Huber 손실 함수 (Huber)**:

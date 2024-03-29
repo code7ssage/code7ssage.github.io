@@ -1,5 +1,7 @@
 ---
 title: Standard Scaler
+categories:
+  - key_terms
 ---
 
 ### Standard Scaler (표준 정규화)

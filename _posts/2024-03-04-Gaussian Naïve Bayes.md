@@ -1,5 +1,7 @@
 ---
 title: Gaussian Naïve Bayes
+categories:
+  - key_terms
 ---
 
 Gaussian Naïve Bayes는 지도 학습에 속하는 확률적 분류 알고리즘 중 하나입니다. Naïve Bayes 분류기의 한 형태로, 특히 연속적인 데이터를 다룰 때 사용됩니다. "Gaussian"이라는 이름은 이 알고리즘이 각 클래스의 연속적인 특성들이 가우시안(정규) 분포를 따른다고 가정하기 때문에 붙여졌습니다.

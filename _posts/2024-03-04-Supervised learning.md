@@ -1,5 +1,7 @@
 ---
 title: Supervised learning
+categories:
+  - key_terms
 ---
 
 - 타겟 Y가 명확하게 존재하는 경우 사용하는 학습 방법 

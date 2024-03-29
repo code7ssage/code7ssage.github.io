@@ -1,5 +1,7 @@
 ---
 title: Topic Modeling
+categories:
+  - key_terms
 ---
 
 Topic Modeling은 텍스트 데이터에서 숨겨진 주제 구조를 찾아내는 통계적 모델링 기법입니다. 이 기술은 대량의 문서 집합에서 주제를 자동으로 추출하여, 문서들이 어떤 주제를 다루고 있는지를 파악하는 데 사용됩니다. Topic Modeling은 자연어 처리(Natural Language Processing, [NLP](https://code7ssage.github.io/NLP/)) 분야에서 중요한 역할을 합니다.

@@ -1,5 +1,7 @@
 ---
 title: Random Forest
+categories:
+  - key_terms
 ---
 
 - A specialized bagging for **decision tree algorithm**

@@ -1,5 +1,7 @@
 ---
 title: KNN imputer
+categories:
+  - key_terms
 ---
 
 ```python

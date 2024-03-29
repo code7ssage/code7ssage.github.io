@@ -1,5 +1,7 @@
 ---
 title: LASSO Regression
+categories:
+  - key_terms
 ---
 
 - Least Absolute Shrinkage and Selection Operator 

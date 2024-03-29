@@ -1,5 +1,7 @@
 ---
 title: classification
+categories:
+  - key_terms
 ---
 
 - 분류 모델

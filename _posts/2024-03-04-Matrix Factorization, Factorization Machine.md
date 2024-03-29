@@ -1,5 +1,7 @@
 ---
 title: Matrix Factorization, Factorization Machine
+categories:
+  - key_terms
 ---
 
 ### Matrix Factorization (행렬 분해)

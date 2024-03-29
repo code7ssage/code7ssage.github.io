@@ -1,5 +1,7 @@
 ---
 title: extracting
+categories:
+  - key_terms
 ---
 
 - [시계열 데이터](https://code7ssage.github.io/시계열-데이터/)에서 특징 변수 추출 →날짜형 데이터에서 년, 월, 일, 요일, 주말여부, 휴일여부 등을 추출 2024-03-25-
