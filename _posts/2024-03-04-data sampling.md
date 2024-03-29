@@ -4,6 +4,6 @@ categories:
   - key_terms
 ---
 
-- [undersampling](https://code7ssage.github.io/undersampling/)
-- [oversampling](https://code7ssage.github.io/oversampling/)
-- [combination sampling](https://code7ssage.github.io/combination-sampling/)
+- [undersampling](https://code7ssage.github.io/key_terms/undersampling/)
+- [oversampling](https://code7ssage.github.io/key_terms/oversampling/)
+- [combination sampling](https://code7ssage.github.io/key_terms/combination-sampling/)
