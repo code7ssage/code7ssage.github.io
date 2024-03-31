@@ -2,6 +2,7 @@
 title: recommendation
 categories:
   - key_terms
+toc: true
 ---
 
 - netflix prize-> 작품 추천

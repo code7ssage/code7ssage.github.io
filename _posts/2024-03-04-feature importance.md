@@ -2,6 +2,7 @@
 title: feature importance
 categories:
   - key_terms
+toc: true
 ---
 
 - Feature Importance은 예측에 가장 큰 영향을 주는 변수를 Permutation하며 찾는 기법             [다중공선성](https://code7ssage.github.io/key_terms/다중공선성/)이 존재하는 경우에는 사용을 지양 

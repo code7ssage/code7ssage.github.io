@@ -2,6 +2,7 @@
 title: anomaly detection
 categories:
   - key_terms
+toc: true
 ---
 
 - 공정 프로세스 관리, 금융 사기 거래 탐지에서 많이 사용

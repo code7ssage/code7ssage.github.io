@@ -2,6 +2,7 @@
 title: if, for while, try except
 categories:
   - key_terms
+toc: true
 ---
 
 **if**

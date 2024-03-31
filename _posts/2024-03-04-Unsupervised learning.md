@@ -2,6 +2,7 @@
 title: Unsupervised learning
 categories:
   - key_terms
+toc: true
 ---
 
 - 타겟 Y는 없고, 독립변수 X만 있는 경우 

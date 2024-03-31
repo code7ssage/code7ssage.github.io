@@ -2,6 +2,7 @@
 title: Gradient Descent
 categories:
   - key_terms
+toc: true
 ---
 
 - 경사 하강법 

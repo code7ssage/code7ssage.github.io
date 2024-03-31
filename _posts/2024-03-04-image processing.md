@@ -2,6 +2,7 @@
 title: image processing
 categories:
   - key_terms
+toc: true
 ---
 
 - 1) Classification, 2) Localization, 3) Object Detection, 4) Instance Segmentation

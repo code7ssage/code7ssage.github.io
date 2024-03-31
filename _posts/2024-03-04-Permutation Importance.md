@@ -2,6 +2,7 @@
 title: Permutation Importance
 categories:
   - key_terms
+toc: true
 ---
 
 Permutation Feature Importance(순열 특성 중요도)는 머신러닝 모델에서 각 특성(feature)이 예측에 얼마나 중요한지를 평가하는 방법입니다. 이 방법은 모델이 이미 학습된 후에 적용됩니다. 순열 특성 중요도를 구하는 과정은 다음과 같습니다:

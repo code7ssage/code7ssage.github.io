@@ -2,6 +2,7 @@
 title: classification
 categories:
   - key_terms
+toc: true
 ---
 
 - 분류 모델

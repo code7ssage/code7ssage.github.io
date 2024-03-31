@@ -2,6 +2,7 @@
 title: MinMax Scaler
 categories:
   - key_terms
+toc: true
 ---
 
 ### MinMax Scaler (최소-최대 정규화)

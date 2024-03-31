@@ -2,6 +2,7 @@
 title: KNN imputer
 categories:
   - key_terms
+toc: true
 ---
 
 ```python

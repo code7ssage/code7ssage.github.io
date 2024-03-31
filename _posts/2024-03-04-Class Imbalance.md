@@ -2,6 +2,7 @@
 title: Class Imblance
 categories:
   - key_terms
+toc: true
 ---
 
 - 실제 데이터의 분포를 유지하면서 데이터의 밸런스를 맞출 수 있는 방법 적용 필요 

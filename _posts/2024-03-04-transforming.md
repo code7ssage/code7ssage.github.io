@@ -2,6 +2,7 @@
 title: transforming
 categories:
   - key_terms
+toc: true
 ---
 
 - Linear regression 또는 [Gaussian Naïve Bayes](https://code7ssage.github.io/key_terms/Gaussian-Naïve-Bayes/)와 같은 ML 알고리즘들은 연속형 변수에 대해 정규 분포를 가정하는 경우가 많음 

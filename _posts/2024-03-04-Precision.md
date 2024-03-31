@@ -2,6 +2,7 @@
 title: Precision
 categories:
   - key_terms
+toc: true
 ---
 
 ### 정밀도 (Precision)

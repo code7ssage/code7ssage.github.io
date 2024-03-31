@@ -2,6 +2,7 @@
 title: objective
 categories:
   - key_terms
+toc: true
 ---
 
  -1. **Huber 손실 함수 (Huber)**:

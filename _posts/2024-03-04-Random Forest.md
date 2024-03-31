@@ -2,6 +2,7 @@
 title: Random Forest
 categories:
   - key_terms
+toc: true
 ---
 
 - A specialized bagging for **decision tree algorithm**

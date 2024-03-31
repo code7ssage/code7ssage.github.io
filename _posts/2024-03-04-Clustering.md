@@ -2,6 +2,7 @@
 title: Clustering
 categories:
   - key_terms
+toc: true
 ---
 
 

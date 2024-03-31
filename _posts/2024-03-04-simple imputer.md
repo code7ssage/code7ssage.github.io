@@ -2,6 +2,7 @@
 title: simple imputer
 categories:
   - key_terms
+toc: true
 ---
 
 ```python

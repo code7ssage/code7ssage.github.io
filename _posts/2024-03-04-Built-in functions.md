@@ -2,6 +2,7 @@
 title: Built-in functions
 categories:
   - key_terms
+toc: true
 ---
 **abs**
 - 정수, 부동소수점수, 복소수의 절대값을 반환하는 기본 함수 (복소수는 크기를 반환)

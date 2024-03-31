@@ -2,6 +2,7 @@
 title: LASSO Regression
 categories:
   - key_terms
+toc: true
 ---
 
 - Least Absolute Shrinkage and Selection Operator 

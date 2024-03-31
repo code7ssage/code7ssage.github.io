@@ -2,6 +2,7 @@
 title: Gradient Boosting Machine
 categories:
   - key_terms
+toc: true
 ---
 
 - **Classification 뿐만 아니라 Regression 사용 가능**

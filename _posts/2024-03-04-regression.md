@@ -2,6 +2,7 @@
 title: regression
 categories:
   - key_terms
+toc: true
 ---
 
 - Regression은 데이터를 가장 잘 표현하는 함수를 찾는 방법

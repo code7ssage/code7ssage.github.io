@@ -2,6 +2,7 @@
 title: cross validation
 categories:
   - key_terms
+toc: true
 ---
 
 - 결과에 대한 분산을 줄이기 위해 사용하는 기법 

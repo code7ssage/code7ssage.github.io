@@ -2,6 +2,7 @@
 title: Ridge Regression
 categories:
   - key_terms
+toc: true
 ---
 
 - β^𝟐에 Penalty Term을 부여하는 방식 

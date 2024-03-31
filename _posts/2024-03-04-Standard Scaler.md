@@ -2,6 +2,7 @@
 title: Standard Scaler
 categories:
   - key_terms
+toc: true
 ---
 
 ### Standard Scaler (표준 정규화)
